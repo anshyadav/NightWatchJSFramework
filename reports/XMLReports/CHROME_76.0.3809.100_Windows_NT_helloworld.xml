@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="helloworld"
+    errors="0" failures="0" hostname="" id="" package="helloworld" skipped="0"
+    tests="1" time="12.75" timestamp="">
+  
+    <testcase name="HelloWorld - We are goign to click on buton" classname="helloworld" time="12.75" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
